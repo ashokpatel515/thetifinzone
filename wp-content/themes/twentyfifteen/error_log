@@ -1,0 +1,12 @@
+[15-Dec-2017 09:00:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/404.php on line 10
+[24-Dec-2017 18:08:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/404.php on line 10
+[07-Feb-2018 12:19:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/functions.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/marvelwe/thetiffinzone.in/wp-content/themes/twentyfifteen/functions.php on line 41
